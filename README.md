@@ -104,7 +104,9 @@ This project demonstrates:
 
 
 
+## 🗺️ Database Schema
 
+![Database Schema](screenshot/schema_diagram.png)
 
 
 
